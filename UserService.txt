@@ -1,2 +1,4 @@
 Creating userService
 process the data...
+
+create an avatar for user
